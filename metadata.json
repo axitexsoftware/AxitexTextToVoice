@@ -1,0 +1,6 @@
+{
+  "name": "AxiTex Voice AI",
+  "description": "Turn text into natural, expressive speech using advanced Google Gemini Text-to-Speech technology. Developer API console, live playground, and voice presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
